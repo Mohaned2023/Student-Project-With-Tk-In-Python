@@ -4,9 +4,6 @@ It is progect written by TKInter in Python in order to work on managing the cont
 
 **Note :** `This project is the frist project for me in TKInter so it may contain several problems ...`
 
-# **See The Template**
->[The Template](https://mohaned2023.github.io/HTML_And_CSS_Template_Two/)
-
 # **Written by** :
 > ___Mohaned Sherhan ~ 2023___
 
